@@ -1,0 +1,4 @@
+.cars-grid{
+    display: inline-flex;
+    flex-wrap: wrap;
+}

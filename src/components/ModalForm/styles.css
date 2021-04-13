@@ -1,0 +1,14 @@
+.modal-form{
+    position: absolute;
+    height: 200px;
+    background-color: rgb(33, 33, 33, 0.5);
+    z-index: 1000;
+    width: 46%;
+}
+form{
+    background-color: white;
+    height: 80%;
+    width: 94%;
+    margin: 3%;
+    text-align: center;
+}
